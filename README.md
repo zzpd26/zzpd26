@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi!, I'm Priyash Das</h1>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=DC2CCC&width=435&lines=I+have+a+keen+interest+in+Frontend+dev.;I+have+a+keen+interest+in+Web+dev.;I+have+a+keen+interest+in+Software+dev.;I+have+a+keen+interest+in+cybersecurity.;I+have+a+keen+interest+in+AI%2FML." alt="Typing SVG" /></a>
+</h3>
 
-<!--
-**zzpd26/zzpd26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://profile-counter.glitch.me/zzpd26/count.svg?"  />
+</div>
 
-Here are some ideas to get you started:
+- Hehehehe 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hahahaha
+
+- Hohohoho
+
+<h3 align="left">Don't connect with me</h3>
+
+
+
