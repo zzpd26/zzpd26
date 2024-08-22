@@ -9,12 +9,12 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyash-Das&theme=ambient_gradient&hide_border=false" height="150" alt="priyash-das" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzpd26&theme=ambient_gradient&hide_border=false" height="150" alt="priyash-das" />
 </div>
 
 <br><br><br>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=priyash-das&label=Profile%20views&color=C40CDA&style=flat" height="20" alt="priyash-das" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=zzpd26&label=Profile%20views&color=C40CDA&style=flat" height="20" alt="priyash-das" /> </p>
 <img width="100%" height="2px" src="https://media.tenor.com/-sauCodHWLIAAAAM/rainbow-border.gif">
 
 # 💥 About Me:
@@ -60,10 +60,10 @@ Languages and Tools:
 
 <br><br><br><br>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyash-das&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzpd26&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph"  />
 </div>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyash-das&theme=ambient_gradient&no-frame=true&no-bg=true&margin-w=4" alt="priyash-das" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zzpd26&theme=ambient_gradient&no-frame=true&no-bg=true&margin-w=4" alt="priyash-das" /></a> </p>
 <br><br>
 <img width="100%" height="2px" src="https://media.tenor.com/-sauCodHWLIAAAAM/rainbow-border.gif">
 
